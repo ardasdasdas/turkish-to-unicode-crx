@@ -9,7 +9,6 @@ Google Extension olarak kullanmak için adımlar:
 
 3- load unpacked diyerek dosyayı seçip yükleyin.
 
-<img width="437" alt="ex" src="https://github.com/ardasdasdas/turkish-to-unicode-crx/assets/53192718/e2f587b6-163e-4516-93f6-cfee3f81a8fe">
 
+https://github.com/user-attachments/assets/957c171f-6d5b-4784-b86d-d0bd6e65c969
 
-<img width="640" alt="extension-ss" src="https://github.com/ardasdasdas/turkish-to-unicode-crx/assets/53192718/ff288551-3653-4ddc-8152-c81cfb056ea4">
