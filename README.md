@@ -10,5 +10,4 @@ Google Extension olarak kullanmak için adımlar:
 3- load unpacked diyerek dosyayı seçip yükleyin.
 
 
-https://github.com/user-attachments/assets/957c171f-6d5b-4784-b86d-d0bd6e65c969
-
+https://github.com/user-attachments/assets/438185b5-8c8f-413f-81e4-99aa00035deb
