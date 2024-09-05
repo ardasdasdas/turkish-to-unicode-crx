@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "convertToTurkishUnicode",
-  "version": "2.0.0",
-  "description": "Türkçe karakterleri Unicode ile değiştirir.",
+  "version": "3.0.0",
+  "description": "Türkçe karakterleri Unicode ile değiştirir. Unicode'lu metinleri Türkçe karakterleriyle değiştirir.",
   "content_scripts": [
     {
       "matches": ["http://*/*", "https://*/*"],
